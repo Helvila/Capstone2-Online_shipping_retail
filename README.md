@@ -18,9 +18,10 @@ The dataset used in this analysis contains information on online retail shipment
 
 
 Clone the Repository:
-git clone https://github.com/your_username/online-retail-shipping-analysis.git
-Open the Jupyter Notebook or Python script to execute the analysis.
-Make sure to adjust file paths if necessary.
+- git clone https:(https://github.com/Helvila/Capstone2-Online_shipping_retail.git)
+- Open the Jupyter Notebook or Python script to execute the analysis.
+- Make sure to adjust file paths if necessary.
+  
 ## Dependencies
 - Python 3.x
 - tabulate: For displaying journal entries in a formatted table.
