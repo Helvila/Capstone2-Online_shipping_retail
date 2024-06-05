@@ -1,5 +1,4 @@
 # Capstone2-Online_shipping_retail
-Online Retail Shipping Analysis
 Welcome to the Online Retail Shipping Analysis repository! This project aims to provide insights into the factors affecting delivery delays and their impact on customer satisfaction in the online retail sector. By analyzing a comprehensive dataset containing various features related to shipping and customer interactions, we aim to assist businesses in optimizing their shipping processes and enhancing customer experience.
 
 Dataset
