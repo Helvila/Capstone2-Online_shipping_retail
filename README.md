@@ -36,4 +36,4 @@ Make sure to adjust file paths if necessary.
 
 ## Contributors
 - [Helvila]https://github.com/Helvila/
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
+- Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
