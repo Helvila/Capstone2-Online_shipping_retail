@@ -24,7 +24,6 @@ Clone the Repository:
   
 ## Dependencies
 - Python 3.x
-- tabulate: For displaying journal entries in a formatted table.
 
 ## Contributors
 - [Helvila]https://github.com/Helvila/
