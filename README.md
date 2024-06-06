@@ -19,6 +19,7 @@ The dataset used in this analysis contains information on online retail shipment
 
 Clone the Repository:
 - git clone https:(https://github.com/Helvila/Capstone2-Online_shipping_retail.git)
+- Tableau Dashboard https://public.tableau.com/views/OptimizingCustomerSatisfactioninOnlineRetailShipping/OptimizingCustomerSatisfactioninOnlineRetailShipping?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link 
 - Open the Jupyter Notebook or Python script to execute the analysis.
 - Make sure to adjust file paths if necessary.
   
